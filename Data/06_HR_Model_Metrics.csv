@@ -1,0 +1,8 @@
+Metric,Value
+Accuracy,83%
+AUC-ROC,0.8408
+CV AUC,0.8460
+Precision (Left),47%
+Recall (Left),68%
+F1-Score (Left),0.56
+Threshold Used,0.20

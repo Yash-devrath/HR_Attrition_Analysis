@@ -92,7 +92,7 @@ This page provides interactive slicing by risk level, department, overtime, busi
 
 ## Dashboard Preview
 
-[Dashboard](./Dashboard/Your_File_Name.pdf)
+[Dashboard](./Dashboard/HR_attrition_powerbi.pdf)
 
 Page 1: Executive Overview | Page 2: ML Model Insights | Page 3: Employee Risk Tracker
 
